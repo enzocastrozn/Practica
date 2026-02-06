@@ -1,2 +1,2 @@
 "Hola mundo"
-"Repositorio para probar pull"
+"Repositorio para probar pulls"
